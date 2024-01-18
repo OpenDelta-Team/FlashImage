@@ -10,5 +10,8 @@
  "Open Vision": {
   "url": "https://images.openvision.dedyn.io/json/ustym4ks2ottx",
   "model": "ustym4ks2ottx"
+ },
+ "AREADELTASAT": {
+  "url": "https://images.areadeltasat.net/json/ustym4kpro",
+  "model": "ustym4ks2ottx"
  }
-}
