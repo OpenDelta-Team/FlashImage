@@ -22,5 +22,8 @@
  "Open8eIGHT": {
   "url": "http://openeight.de/json/sf8008",
   "model": "sf8008"
+ },
+ "AREADELTASAT": {
+  "url": "https://images.areadeltasat.net/json/ustym4kpro",
+  "model": "sf8008"
  }
-}
