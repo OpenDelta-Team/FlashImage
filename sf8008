@@ -25,6 +25,6 @@
  },
  "AREADELTASAT": {
   "url": "https://images.areadeltasat.net/json/sf8008",
-  "model": "sf8008x"
+  "model": "sf8008"
  }
 }
